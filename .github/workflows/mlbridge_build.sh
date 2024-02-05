@@ -24,6 +24,8 @@ cd $HOME
 wget https://github.com/microsoft/onnxruntime/releases/download/v1.16.3/onnxruntime-linux-x64-1.16.3.tgz
 tar -xzf onnxruntime-linux-x64-1.16.3.tgz
 
+for f in $(find /usr/share/miniconda/ -name "port_def.inc"); do mv "$f" "$(echo "$f" | sed s/google/google2/)"; done
+
 # Setup MLCompilerBridge
 REPO_DIR=$GITHUB_WORKSPACE
 BUILD=$1
