@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['basecompilerinterface_0',['BaseCompilerInterface',['../de/d17/classBaseCompilerInterface_1_1BaseCompilerInterface.html',1,'BaseCompilerInterface.BaseCompilerInterface'],['../d9/dfb/namespaceBaseCompilerInterface.html',1,'BaseCompilerInterface']]],
+  ['basecompilerinterface_0',['BaseCompilerInterface',['../d2/d11/classcompiler__interface_1_1BaseCompilerInterface_1_1BaseCompilerInterface.html',1,'compiler_interface::BaseCompilerInterface']]],
   ['basecompilerinterface_2epy_1',['BaseCompilerInterface.py',['../de/d62/BaseCompilerInterface_8py.html',1,'']]],
   ['baseserdes_2',['BaseSerDes',['../df/d69/classMLBridge_1_1BaseSerDes.html',1,'MLBridge::BaseSerDes'],['../df/d69/classMLBridge_1_1BaseSerDes.html#a0106bb86260ee62f5af59133aed7ad21',1,'MLBridge::BaseSerDes::BaseSerDes()']]],
   ['baseserdes_2eh_3',['baseSerDes.h',['../d2/d15/baseSerDes_8h.html',1,'']]],
@@ -11,6 +11,6 @@ var searchData=
   ['bridge_8',['ML-Compiler-Bridge',['../index.html',1,'']]],
   ['bridge_20with_20llvm_20and_20mlir_9',['Using ML-Compiler-Bridge with LLVM and MLIR',['../index.html#autotoc_md18',1,'']]],
   ['buffer_10',['Buffer',['../da/de4/classMLBridge_1_1BitstreamSerDes.html#acf60d5e5076beb42eefdf605efa779fd',1,'MLBridge::BitstreamSerDes']]],
-  ['buffer_11',['buffer',['../d3/d1f/classPipeCompilerInterface_1_1PipeCompilerInterface.html#a4c202652721cae3dac173572defb85e7',1,'PipeCompilerInterface.PipeCompilerInterface.buffer'],['../d7/dab/classSerDes_1_1SerDes.html#a8d4a1391ad9f57df83fb00939e7f380a',1,'SerDes.SerDes.buffer']]],
+  ['buffer_11',['buffer',['../d1/d13/classcompiler__interface_1_1PipeCompilerInterface_1_1PipeCompilerInterface.html#a11d5e35a43629fa9323538bca51520e1',1,'compiler_interface.PipeCompilerInterface.PipeCompilerInterface.buffer'],['../d6/d38/classcompiler__interface_1_1SerDes_1_1SerDes.html#a26a75204f2393c6efdb5a6b3ac0435df',1,'compiler_interface.SerDes.SerDes.buffer']]],
   ['building_20llvm_20grpc_12',['Building LLVM-GRPC',['../df/ddf/md_MLModelRunner_2gRPCModelRunner_2README.html#autotoc_md7',1,'']]]
 ];

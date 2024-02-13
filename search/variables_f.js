@@ -1,7 +1,7 @@
 var searchData=
 [
   ['rawdata_0',['rawData',['../da/de4/classMLBridge_1_1BitstreamSerDes.html#ab2cabdffbf8d189da6027833b3d0dbd8',1,'MLBridge::BitstreamSerDes']]],
-  ['read_5fstream_5fiter_1',['read_stream_iter',['../d7/dab/classSerDes_1_1SerDes.html#a2638ddc74f788c46a87f8e8aeea19704',1,'SerDes::SerDes']]],
+  ['read_5fstream_5fiter_1',['read_stream_iter',['../d6/d38/classcompiler__interface_1_1SerDes_1_1SerDes.html#a872dd23e4762daf77717d23166b113a5',1,'compiler_interface::SerDes::SerDes']]],
   ['request_2',['Request',['../d1/dcd/classMLBridge_1_1ProtobufSerDes.html#a00a22374c8ae2e6932d7e7129120bc24',1,'MLBridge::ProtobufSerDes']]],
   ['request_3',['request',['../d4/d4a/classMLBridge_1_1gRPCModelRunner.html#abc1e4b0fb90e2f6940afddbfeb835949',1,'MLBridge::gRPCModelRunner']]],
   ['requestvoid_4',['RequestVoid',['../df/d69/classMLBridge_1_1BaseSerDes.html#af08ba047fb2dacd5329609db05af6443',1,'MLBridge::BaseSerDes']]],
