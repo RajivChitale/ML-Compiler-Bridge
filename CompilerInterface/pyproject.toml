@@ -1,0 +1,25 @@
+[project]
+name = "compiler_interface"
+version = "0.1.0"
+authors = [
+  { name="Umesh Kalvakuntla" }, { email="cs20btech11024@iith.ac.in" },
+  { name="S. VenkataKeerthy"}, { email="cs17m20p100001@iith.ac.in" },
+  { name="Siddharth Jain"}, { email="cs23resch11005@iith.ac.in" },
+  { name="Pranav Sai Gorantla"}, {email="cs20btech1101@iith.ac.in" },
+  { name="Rajiv Shailesh Chitale"}, {email="cs21btech11051@iith.ac.in"},
+  ]
+description = "Communication framework for ML-Enabled Compiler Optimizations."
+license = {text = "Apache-2.0"}
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+]
+
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
